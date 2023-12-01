@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Frontend developer who tries to learn something new every day 💻</h2>
 <h3 align="center">Please contact me if you have any questions:</h3>
-<ul>
+<ul  align="center">
   <li><a href="https://www.linkedin.com/in/piakasso" target="_blank">LinkedIn</a> </li>
   <li><a href="https://t.me/piakasso" target="_blank">Telegram</li>
 </ul>
