@@ -3,9 +3,9 @@
 <h2 align="center">Frontend developer who tries to learn something new every day 💻</h2>
 <h3 align="center">Please contact with me if you have any questions:</h3>
 
-  <p><a href="https://www.linkedin.com/in/piakasso" target="_blank">LinkedIn</a></p>
-  <p><a href="https://t.me/piakasso" target="_blank">Telegram</p>
-      <p><a href="mailto:vitaliipiak@gmail.com" target="_blank">vitaliipiak@gmail.com</p>
+  <p align="center"><a href="https://www.linkedin.com/in/piakasso" target="_blank">LinkedIn</a></p>
+  <p align="center"><a href="https://t.me/piakasso" target="_blank">Telegram</p>
+      <p align="center"><a href="mailto:vitaliipiak@gmail.com" target="_blank">vitaliipiak@gmail.com</p>
 
 
 
