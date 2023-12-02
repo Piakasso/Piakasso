@@ -5,7 +5,7 @@
 <ul>
   <li><a href="https://www.linkedin.com/in/piakasso" target="_blank">LinkedIn</a> </li>
   <li><a href="https://t.me/piakasso" target="_blank">Telegram</li>
-      <li><a href="mailto" target="_blank">Telegram</li>
+      <li><a href="mailto:vitaliipiak@gmail.com" target="_blank">vitaliipiak@gmail.com</li>
 </ul>
 
 
