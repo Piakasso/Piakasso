@@ -3,8 +3,8 @@
 <h2 align="center">Frontend developer who tries to learn something new every day 💻</h2>
 <h3 align="center">Please contact with me if you have any questions:</h3>
 <ul >
-  <li><a style="text-decoration:none" href="https://www.linkedin.com/in/piakasso" target="_blank">LinkedIn</a> </li>
-  <li><a style="text-decoration:none" href="https://t.me/piakasso" target="_blank">Telegram</li>
+  <li style="text-decoration:none"><a  href="https://www.linkedin.com/in/piakasso" target="_blank">LinkedIn</a> </li>
+  <li  style="text-decoration:none"><a href="https://t.me/piakasso" target="_blank">Telegram</li>
       <li><a href="mailto:vitaliipiak@gmail.com" target="_blank">vitaliipiak@gmail.com</li>
 </ul>
 
