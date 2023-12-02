@@ -5,7 +5,7 @@
 <h3 align="center">Open to work now.Please contact with me if you have any questions:</h3>
 
   <p align="center"><a href="https://www.linkedin.com/in/piakasso" target="_blank">LinkedIn</a></p>
-  <p align="center"><a href="https://t.me/piakasso" target="_blank">Telegram</p>
+  <p align="center"><a href="https://t.me/vitaliipiak" target="_blank">Telegram</p>
       <p align="center"><a href="mailto:vitaliipiak@gmail.com" target="_blank">vitaliipiak@gmail.com</p>
 
 
